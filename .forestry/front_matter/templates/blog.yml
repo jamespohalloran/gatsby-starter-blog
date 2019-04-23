@@ -12,3 +12,5 @@ fields:
     time_format: 
     display_utc: 
     export_format: YYYY-MM-DD HH:mm:ss ZZ
+pages:
+- content/blog/hello-world/newp.md
