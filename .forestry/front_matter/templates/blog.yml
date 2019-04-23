@@ -1,4 +1,14 @@
 ---
 label: blog
 hide_body: false
-fields: []
+fields:
+- name: dateo
+  type: datetime
+  label: dateo
+  description: ''
+  config:
+    required: false
+    date_format: 
+    time_format: 
+    display_utc: 
+    export_format: YYYY-MM-DD HH:mm:ss ZZ
