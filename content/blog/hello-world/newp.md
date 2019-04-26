@@ -1,6 +1,5 @@
 ---
-dateo: YYYY-MM-DD
-date: 2019-04-23T16:24:54.000-03:00
+dateo: 2019-04-19 06
+date: '2019-04-23T19:24:54+00:00'
 
 ---
-grgregre fewijjikm
